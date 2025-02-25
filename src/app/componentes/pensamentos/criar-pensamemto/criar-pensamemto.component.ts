@@ -23,8 +23,4 @@ export class CriarPensamemtoComponent implements OnInit {
     alert("teste")
   }
 
-  cancelarPensamento() {
-    alert("Cancelado")
-  }
-
 }
