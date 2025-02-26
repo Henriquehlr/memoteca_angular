@@ -3,12 +3,6 @@
     {
       "id": 1,
       "conteudo": "Que bom que voce verio",
-      "autoria": "henrique",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 1,
-      "conteudo": "Que bom que voce verio",
       "autoria": "Gaby",
       "modelo": "modelo2"
     },
@@ -23,12 +17,6 @@
       "autoria": "Henrique Angular",
       "modelo": "modelo3",
       "id": 2
-    },
-    {
-      "conteudo": "ola",
-      "autoria": "dsadas",
-      "modelo": "modelo1",
-      "id": 3
     }
   ]
 }
